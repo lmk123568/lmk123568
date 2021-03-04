@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👋欢迎访问我的Github
 
+- 目前研究2d object detection
+- 正在努力练习柔术中
+- 
 <!--
 **lmk123568/lmk123568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

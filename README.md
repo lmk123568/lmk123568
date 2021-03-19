@@ -3,7 +3,7 @@
 - 目前研究2d object detection
 - 减肥锻炼进行时...
 - Pytorch、Paddle选手
-- Ai Studio个人主页:https://aistudio.baidu.com/aistudio/usercenter
+- Ai Studio个人主页: https://aistudio.baidu.com/aistudio/usercenter
 
 
 

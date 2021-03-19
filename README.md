@@ -1,9 +1,9 @@
 ### 👋欢迎来到我的Github
 
 - 目前研究2d object detection
-- 正在努力练习柔术中
-- pp飞桨，pytorch
-- 减肥锻炼进行时
+- 减肥锻炼进行时...
+- Pytorch、Paddle选手
+- 欢迎找我玩
 
 
 

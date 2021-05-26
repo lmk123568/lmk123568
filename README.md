@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&show_icons=true&theme=dracula)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

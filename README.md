@@ -1,4 +1,4 @@
-<h2 color="#bd93f9">Hi, I'm Tim</h2>
+<h2 color="#bd93f9">Hi, I'm Mike</h2>
 
 [Check out my website!](https://tim.clifford.lol)
 

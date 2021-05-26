@@ -1,23 +1,24 @@
-### 👋欢迎来到我的Github
+<h2 color="#bd93f9">Hi, I'm Tim</h2>
 
-- 目前研究2d object detection
-- 减肥锻炼进行时...
-- Pytorch、Paddle选手
-- Ai Studio个人主页: https://aistudio.baidu.com/aistudio/personalcenter/thirdview/685539
+[Check out my website!](https://tim.clifford.lol)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tim-clifford&layout=compact&theme=dracula&langs_count=6&hide_border=true&card_width=445" width=49.3%/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tim-clifford&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true&count_private=true&hide_border=true" width=49.3%/>
+</a>
 
+<h2 color="#ffb86c">Recent Activity</h2>
 
-<!--
-**lmk123568/lmk123568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--START_SECTION:activity-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. ❗️ Closed issue [#1](https://github.com/windows-bad/polybar-player/issues/1) in [windows-bad/polybar-player](https://github.com/windows-bad/polybar-player)
+2. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
+3. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
+4. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
+5. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
+6. 💪 Opened PR [#40](https://github.com/SRCF/docs/pull/40) in [SRCF/docs](https://github.com/SRCF/docs)
+7. 🎉 Merged PR [#2](https://github.com/smh-my-head/hades/pull/2) in [smh-my-head/hades](https://github.com/smh-my-head/hades)
+8. 💪 Opened PR [#2](https://github.com/smh-my-head/hades/pull/2) in [smh-my-head/hades](https://github.com/smh-my-head/hades)
+   <!--END_SECTION:activity-->

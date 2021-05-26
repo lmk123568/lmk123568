@@ -1,8 +1,6 @@
 <h2 color="#bd93f9">Hi, I'm Mike</h2>
 
-[Check out my website!](https://tim.clifford.lol)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lmk123568/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tim-clifford&layout=compact&theme=dracula&langs_count=6&hide_border=true&card_width=445" width=49.3%/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">

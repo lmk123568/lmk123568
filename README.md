@@ -9,5 +9,3 @@ I'm Mike, A graduate student from UCAS
 🏆 **Github State**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)
-
-<img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" alt="Dino" style="zoom: 10%;" />

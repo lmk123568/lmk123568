@@ -14,17 +14,6 @@
 
 我热爱数学，本科拿过全国大学生数学竞赛奖，有着良好的数学功底和素养
 
-我目前掌握的语言是 Python、C++
-
-将来一年内我的目标
-- 学习尝试 Vue3
-- 学习 RISC-V
-- 学习分布式系统
-- 写一个编译器
-- 写一个 OS
-- 学习 CG
-- 学习数据库
-
 🏆 **Github State**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)

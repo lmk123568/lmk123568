@@ -1,6 +1,6 @@
 <h2 color="#bd93f9">Hi there 👋🏼</h2>
 
-我是 Mike, 毕业于 [UCAS](https://www.ucas.ac.cn/), 我是一名听障人士🦻🏼
+我是 Mike，毕业于 [UCAS](https://www.ucas.ac.cn/), 我是一名听障人士🦻🏼
 
 得益于计算机，我能巧妙避免听力劣势从而实现自我价值，我的目标是努力成长为计算机工业界的小小牛
 

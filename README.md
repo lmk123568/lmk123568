@@ -10,6 +10,4 @@
 
 🦎 **My Pet**
 
-![pet](pet.gif)
-
-它来自于像素游戏 Lacuna
+![pet](chameleonic.gif)

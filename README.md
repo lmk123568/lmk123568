@@ -10,4 +10,4 @@
 
 🦎 **My Pet**
 
-![pet](chameleonic.gif)
+![pet](pet.gif)

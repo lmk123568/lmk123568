@@ -4,10 +4,15 @@
 
 得益于计算机，我能巧妙避免听力劣势从而实现自我价值
 
+![](https://img.shields.io/badge/像素党-blue)![](https://img.shields.io/badge/图吧垃圾佬-blue)
+
 🏆 **Github State**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)
 
 🦎 **My Pet**
 
+它来自像素游戏 [Lacuna](https://store.steampowered.com/app/1364100/Lacuna/)
+
 ![pet](chameleonic.gif)
+

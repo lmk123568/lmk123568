@@ -9,10 +9,3 @@
 🏆 **Github State**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)
-
-🦎 **My Pet**
-
-它来自像素游戏 [Lacuna](https://store.steampowered.com/app/1364100/Lacuna/)
-
-![pet](chameleonic.gif)
-

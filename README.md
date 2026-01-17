@@ -4,6 +4,6 @@
 
 得益于计算机，我能巧妙避免听力劣势从而实现自我价值
 
-🏆 **Github State**
+🏆 **Github Stats**
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)
+![Mike's GitHub stats](https://github-readme-stats-two-liard-95.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)

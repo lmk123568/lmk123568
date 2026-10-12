@@ -6,4 +6,4 @@
 
 🏆 **Github Stats**
 
-![](https://github-stats-extended.vercel.app/api?username=lmk123568)](https://github.com/stats-organization/github-stats-extended)
+![](https://github-stats-extended.vercel.app/api?username=lmk123568)]

@@ -6,4 +6,4 @@
 
 🏆 **Github Stats**
 
-![Mike's GitHub stats](https://github-readme-stats-two-liard-95.vercel.app/api?username=lmk123568&hide_title=True&hide_border=True&show_icons=true&theme=dracula)
+![](https://github-stats-extended.vercel.app/api?username=lmk123568)](https://github.com/stats-organization/github-stats-extended)
